@@ -16,11 +16,15 @@ app.use(express.static("public"));
 
 mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useNewUrlParser: true,
-  useFindAndModify: false
+  useFindAndModify: false,
+  useUnifiedTopology: true,
+  useCreateIndex: true
 });
 
+// mongodb+srv://KuyaJasper:<password>@cluster0.iogd3.mongodb.net/workoutsdb?retryWrites=true&w=majority
+
 // routes
-// app.use(require("./routes/api.js"));
+app.use(require("./routes/api.js"));
 app.use(require("./routes/pages.js"));
 
 app.listen(PORT, () => {
