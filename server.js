@@ -21,8 +21,6 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/workout", {
   useCreateIndex: true
 });
 
-// mongodb+srv://KuyaJasper:<password>@cluster0.iogd3.mongodb.net/workoutsdb?retryWrites=true&w=majority
-
 // routes
 app.use(require("./routes/api.js"));
 app.use(require("./routes/pages.js"));
