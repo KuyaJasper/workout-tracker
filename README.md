@@ -70,8 +70,6 @@ Example of how deployed application should run:
 
 # Application
 
-## For deployed application:
-
  [![Deployed Application](https://img.shields.io/badge/-Click_Here-58a780?style=for-the-badge)]((https://kuyajasper-workout-tracker.herokuapp.com/))
 
 
