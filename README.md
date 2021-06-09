@@ -78,7 +78,7 @@ Example of how deployed application should run:
 Reach out at:
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/KuyaJasper)
-[![Email badge](https://img.shields.io/badge/LinkedIn-006ad1?style=flat-square)](mailto:abarquezj1@gmail.com)
+[![Email badge](https://img.shields.io/badge/LinkedIn-006ad1?style=flat-square)](https://www.linkedin.com/in/jasper-abarquez/)
 
 [![Email badge](https://img.shields.io/badge/Email-abarquezj1@gmail.com-c51236?style=flat-square)](mailto:abarquezj1@gmail.com)
 
