@@ -48,9 +48,13 @@ You will also need to make sure mongo is running. In a terminal window, make sur
 
 The models, and routes will be set up in their respective folders. You will just need to seed the database.
 
-To seed the database, run the script `npm run seed`
+To seed the database, run the script 
+### `npm run seed`
 
-After the database is seeded, run the sctipt `npm run start` to start the server for your browser to use.
+After the database is seeded, run the sctipt 
+### `npm run start` 
+
+This will start the server for your browser to use.
 
 
 
